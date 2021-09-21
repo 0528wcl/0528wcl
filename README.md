@@ -12,4 +12,4 @@
 
 ─────
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCW2Y-pG81_dOSDIEKwXMOSQ)](https://www.youtube.com/channel/UCW2Y-pG81_dOSDIEKwXMOSQ)
+[![Youtube](https://www.youtube.com/channel/UCW2Y-pG81_dOSDIEKwXMOSQ)
