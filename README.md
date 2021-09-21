@@ -14,4 +14,4 @@
 
 
 [<img align="left" alt="youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][YouTube]
-[![YouTube](https://www.youtube.com/channel/UCW2Y-pG81_dOSDIEKwXMOSQ)
+[YouTube]: https://www.youtube.com/channel/UCW2Y-pG81_dOSDIEKwXMOSQ
