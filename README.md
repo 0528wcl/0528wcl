@@ -2,4 +2,4 @@
 
 # [ Hi! ]
 
-> **hi**
+> **im a beginner programmer**
